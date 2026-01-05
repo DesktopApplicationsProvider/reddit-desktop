@@ -8,6 +8,7 @@ Reddit is the place where people come together to have the most authentic and in
 
 With over 100,000 communities about every topic you could think of (and a few you’d probably never think of if it wasn’t for the creativity of strangers on the internet), Reddit is the place where you can dive into anything and connect with people on any topic.
 
+Read more on the [Official Reddit Desktop Website.](https://desktopapplicationsprovider.github.io/reddit-desktop/).
 
 Reddit desktop works on Windos 7, Widows 8, Windows 10, Windows 11.
 
